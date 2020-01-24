@@ -1,4 +1,5 @@
-Practice of userform; greate tools that allow us to make use of client-side checking easily. Great library that provide a faster renderization in comparison with formik, for example. 
+Practice of userform, it is a great tools that allow us to make use of client-side checking easily.
+Library that provide a faster renderization in comparison with formik, for example. 
 
 source: https://react-hook-form.com/
 
