@@ -1,3 +1,7 @@
+Practice of userform; greate tools that allow us to make use of client-side checking easily. Great library that provide a faster renderization in comparison with formik, for example. 
+
+source: https://react-hook-form.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
